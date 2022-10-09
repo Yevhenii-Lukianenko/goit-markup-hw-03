@@ -71,6 +71,10 @@ ul {
 
 /* header */
 
+.page-header {
+    border-bottom: 1px solid #ECECEC;
+}
+
 .main-nav, .nav-list, .contact-list {
     display: flex;
 }
