@@ -378,6 +378,8 @@ ul {
 }
 
 .project-title {
+    margin-bottom: 4px;
+
     color: var(--primary-text-color);
 
     font-weight: 700;
